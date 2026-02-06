@@ -1,0 +1,9 @@
+{
+	"name": "DfproChandu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b4766ff-778c-4543-8355-e9f35153160e",
+		"tenantId": "f01045c5-3e64-4be7-b4e2-dafd9c6da05f"
+	}
+}
